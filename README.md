@@ -10,4 +10,6 @@ Node.JS MongoDB Express
 
 Firebase
 
+[Portfolio](https://bozejewski.netlify.app/)
+
 Gmail LinkedIn 
