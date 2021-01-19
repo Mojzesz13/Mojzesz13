@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello!
 
-<!--
-**Mojzesz13/Mojzesz13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Paweł, nice to have you there! wave I'm front-end web developer. I absolutely love React and everything about it! slightly_smiling_face
+Tech stack
+HTML CSS Styled-components Sass
 
-Here are some ideas to get you started:
+JavaScript TypeScript Java 8
+React Redux React Router
+Node.JS MongoDB Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Firebase
+
+Gmail LinkedIn 
